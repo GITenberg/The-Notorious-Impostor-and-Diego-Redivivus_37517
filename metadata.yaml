@@ -1,0 +1,33 @@
+_repo: The-Notorious-Impostor-and-Diego-Redivivus_37517
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Settle, Elkanah
+    alias: Settle, E. (Elkanah)
+    birthdate: 1648
+    deathdate: 1724
+    gutenberg_agent_id: '8078'
+    url: http://www.gutenberg.org/2009/agents/8078
+    wikipedia: http://en.wikipedia.org/wiki/Elkanah_Settle
+  editor:
+    agent_name: Peterson, Spiro
+    gutenberg_agent_id: '38893'
+    url: http://www.gutenberg.org/2009/agents/38893
+description: ''
+gutenberg_issued: '2011-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37517'
+  lccn: '58002389'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Morrell, William, -1692 -- Fiction'
+- !lcc 'PR'
+title: The Notorious Impostor (1692); Diego Redivivus (1692)
+url: http://www.gutenberg.org/ebooks/37517
